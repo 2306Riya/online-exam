@@ -1,0 +1,6 @@
+{
+  "name": "ExamiPro - Online Examination Platform",
+  "description": "A responsive online examination and testing platform with interactive timed quizzes, instant grading, comprehensive question reviews, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
